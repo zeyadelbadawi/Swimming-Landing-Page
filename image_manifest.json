@@ -1,0 +1,88 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmelq6yaag6q/hero-underwater-pool-light-rays.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmelq6yaag6q/hero-underwater-pool-light-rays.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmelq6yaag6q/hero-underwater-pool-light-rays.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "Cinematic underwater swimming pool scene with crystal clear turquoise water, light rays penetrating through the surface creating caustic patterns on the pool floor, bubbles rising, deep blue to cyan gradient, perfect for a hero background of a premium swimming academy",
+      "style": "photorealistic",
+      "filename": "hero-underwater-pool-light-rays.jpg"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmelq5aaag4q/kids-swimming-lesson-coach.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmelq5aaag4q/kids-swimming-lesson-coach.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmelq5aaag4q/kids-swimming-lesson-coach.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "Professional swimming coach teaching a young child (age 5-6) to swim in a clean modern indoor pool, warm lighting, the child wearing goggles and smiling, safe and friendly atmosphere, premium sports photography style",
+      "style": "photorealistic",
+      "filename": "kids-swimming-lesson-coach.jpg"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmelrxqaag3a/adult-swimmer-freestyle-action.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmelrxqaag3a/adult-swimmer-freestyle-action.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmelrxqaag3a/adult-swimmer-freestyle-action.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "Athletic adult swimmer doing freestyle stroke in a modern Olympic-style pool, dynamic action shot with water splashing, dramatic lighting from above, deep blue water, professional sports photography",
+      "style": "photorealistic",
+      "filename": "adult-swimmer-freestyle-action.jpg"
+    },
+    {
+      "status": "failed",
+      "path": "",
+      "absolute_path": "",
+      "url": "",
+      "message": "Image generation failed: Image creation failed (oneapi): HTTP 400 error: {\"error\":{\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at Azure support ticket and include the request ID bc28ac91-6ea1-4c76-af7c-9a9aa0c8704a. safety_violations=[sexual]. (request id: 2026052714474343706818265316332)\",\"type\":\"image_generation_user_error\",\"param\":\"\",\"code\":\"moderation_blocked\"}}",
+      "description": "Group of happy teenagers in a swimming pool during a group training session, wearing swim caps and goggles, modern indoor pool facility with clean architecture, energetic and fun atmosphere, premium sports brand photography",
+      "style": "photorealistic",
+      "filename": "teens-group-swimming-training.jpg"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmemkniaag4a/modern-pool-facility-exterior.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmemkniaag4a/modern-pool-facility-exterior.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmemkniaag4a/modern-pool-facility-exterior.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "Modern luxury indoor swimming pool facility exterior/interior with glass walls, clean architectural lines, turquoise water, ambient lighting, palm trees visible outside, premium sports club aesthetic, New Cairo Egypt style modern building",
+      "style": "photorealistic",
+      "filename": "modern-pool-facility-exterior.jpg"
+    },
+    {
+      "status": "failed",
+      "path": "",
+      "absolute_path": "",
+      "url": "",
+      "message": "Image generation failed: Image creation failed (oneapi): HTTP 400 error: {\"error\":{\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at Azure support ticket and include the request ID 8238dcad-545d-4376-97bb-947d7cc5e105. (request id: 20260527144813642055639931406)\",\"type\":\"image_generation_user_error\",\"param\":\"\",\"code\":\"moderation_blocked\"}}",
+      "description": "Close-up of a small child (age 3-4) happily splashing in shallow pool water with floaties, bright joyful expression, crystal clear water droplets in the air, warm safe environment, premium family-friendly sports photography",
+      "style": "photorealistic",
+      "filename": "toddler-happy-pool-splash.jpg"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmenmnqaag2q/pool-lanes-overhead-training.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmenmnqaag2q/pool-lanes-overhead-training.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmenmnqaag2q/pool-lanes-overhead-training.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "A modern indoor swimming pool with lane dividers, overhead view showing multiple swimmers practicing laps, clean blue water, professional sports facility with bright lighting, architectural photography style",
+      "style": "photorealistic",
+      "filename": "pool-lanes-overhead-training.jpg"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmenifqaag3q/swimming-gear-flatlay-poolside.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmenifqaag3q/swimming-gear-flatlay-poolside.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/967904/2026-05-27/pmenifqaag3q/swimming-gear-flatlay-poolside.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "Colorful swimming goggles, swim cap, and kickboard arranged artistically on a pool deck edge with turquoise water visible in background, flat lay sports equipment photography, vibrant colors, premium product shot",
+      "style": "photorealistic",
+      "filename": "swimming-gear-flatlay-poolside.jpg"
+    }
+  ],
+  "success_count": 2,
+  "failed_count": 0,
+  "message": "Generated 2/2 images"
+}
